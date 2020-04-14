@@ -1,7 +1,7 @@
-gocoin-seeder
+versacoin-seeder
 ==============
 
-Gocoin-seeder is a crawler for the Gocoin network, which exposes a list
+VersaCoin-seeder is a crawler for the VersaCoin network, which exposes a list
 of reliable nodes via a built-in DNS server.
 
 Features:
